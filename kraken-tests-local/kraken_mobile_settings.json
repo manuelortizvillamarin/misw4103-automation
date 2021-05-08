@@ -1,0 +1,14 @@
+{
+    "1": {
+        "id": "12d52d43416fe22ce72d",
+        "model": "Web",
+        "type": "WEB_DEVICE",
+        "config": {}
+    },
+    "2": {
+        "id": "2aede40f4944dfae990b",
+        "model": "Web",
+        "type": "WEB_DEVICE",
+        "config": {}
+    }
+}
